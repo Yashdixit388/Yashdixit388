@@ -1,10 +1,12 @@
-   - 👋 Hi, I’m @Yashdixit388
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🔭 I'm focused on Data Science, AI & Machine Learning
+🐍 I mainly work with Python 
+🌱 Currently sharpening my skills in ML models, data analysis, and AI-driven projects
+
+Open to collaborating on data & ML projects
+ 📫 Reach me via GitHub 
+
+⚡ Fun fact: I like turning messy data into clean insights
 
 <!---
 Yashdixit388/Yashdixit388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
