@@ -19,8 +19,6 @@
 
 <br/>
 
-<img src="assets/yash-profile.png" width="190" alt="Yash Dixit profile photo"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00E5FF?style=for-the-badge&logo=target&logoColor=black"/>
