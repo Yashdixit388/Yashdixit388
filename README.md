@@ -1,84 +1,119 @@
 
-# Yash Dixit | Personal Portfolio
+<!-- =========================================
+     YASH DIXIT | FUTURISTIC GITHUB README
+========================================= -->
 
-<p align="center">
-  <b>B.Tech CSE (Artificial Intelligence & Machine Learning)</b>
-  <br>
-  Aspiring Data Analyst | AI/ML Enthusiast | Business & Product Management
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20%7C%20AI%20%7C%20Business-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge" />
-</p>
+<img src="assets/hero-animation.gif" width="100%" alt="Animated futuristic banner"/>
 
----
+<br/>
 
-## 👋 About Me
+# ⚡ YASH DIXIT
 
-Hello! I'm **Yash Dixit**, a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at Sanskriti University.
+### `TECHNOLOGY × DATA × BUSINESS`
 
-I am interested in exploring the intersection of technology, data, business strategy, and human interaction.
+**B.Tech Computer Science Engineering | AI & Machine Learning**
 
-Alongside my technical education, I have professional experience in student counselling, admission support, communication, and academic coordination.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Future+Product+Manager;Business+Development+Professional;Always+Learning.+Always+Building." alt="Animated introduction"/>
 
-I enjoy understanding problems, working with information, communicating with people, and finding practical solutions.
+<br/>
 
-My goal is to continuously develop my technical and professional skills while exploring opportunities across technology and business domains.
+<img src="assets/yash-profile.png" width="190" alt="Yash Dixit profile photo"/>
 
----
+<br/>
 
-## 🎯 Career Interests
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00E5FF?style=for-the-badge&logo=target&logoColor=black"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRADUATION-2027-00C853?style=for-the-badge"/>
 
-I am interested in entry-level opportunities, internships, and graduate roles in:
+<br/><br/>
 
-- 📊 Data Analytics & Business Analytics
-- 🤖 Artificial Intelligence & Machine Learning
-- 💡 Product Management
-- 📈 Business Development
-- 🤝 Business Development Associate (BDA)
-- 💼 Sales & Relationship Management
-- 📢 Digital Marketing
-- 🎓 Student Counselling & Academic Management
+[ABOUT ME](#-about-me) •
+[SKILLS](#-technology-stack) •
+[EXPERIENCE](#-professional-experience) •
+[EDUCATION](#-education) •
+[CONTACT](#-connect-with-me)
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## ◈ ABOUT ME
 
-| Category | Skills |
-|---|---|
-| Programming | Python (Beginner–Intermediate) |
-| Data Analytics | Data Analysis, Data Visualization |
-| Tools | Microsoft Excel, Google Sheets |
-| Technology | Artificial Intelligence, Machine Learning |
-| Professional Skills | Communication, Problem-Solving |
-| Business Skills | Student Counselling, Academic Coordination, Relationship Building |
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Technology animation"/>
+
+Hello! I'm **Yash Dixit**, a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Sanskriti University.
+
+I am passionate about exploring the intersection of:
+
+- Artificial Intelligence
+- Data Analytics
+- Product Management
+- Business Development
+- Sales & Marketing
+- Technology and Innovation
+
+Alongside my technical education, I have professional experience in student counselling, admission support, communication and academic coordination.
+
+I believe in combining analytical thinking with communication and business understanding to solve real-world problems.
+
+<br clear="right"/>
 
 ---
 
-## 💼 Professional Experience
+## ◈ TECHNOLOGY STACK
 
-### Student Counsellor — Sanskriti University
+<div align="center">
 
-**2024 – Present**
+### 💻 Programming & Technology
 
-Responsibilities and contributions:
+<img src="https://skillicons.dev/icons?i=python,github,vscode&theme=dark" />
 
-- Guide students regarding academic programmes, course selection, and career pathways.
-- Provide admission-related counselling and documentation support.
-- Handle student queries with clear and effective communication.
-- Coordinate with faculty members and administrative teams.
-- Support students in academic decision-making.
+### 📊 Data & Analytics
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-7B61FF?style=for-the-badge"/>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00BCD4?style=for-the-badge"/>
+
+### 💼 Business & Professional Skills
+
+<img src="https://img.shields.io/badge/Business_Development-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product_Management-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Student_Counselling-00C853?style=for-the-badge"/>
+
+</div>
+
+---
+
+## ◈ PROFESSIONAL EXPERIENCE
+
+### 🏢 Student Counsellor
+**Sanskriti University | 2024 – Present**
+
+- Guide students regarding academic programmes, course selection and career pathways.
+- Support admission counselling and documentation.
+- Handle student queries through effective communication.
+- Coordinate with faculty and administrative teams.
+- Help students make informed academic decisions.
 - Contributed to the admission of **100+ students across multiple academic streams**.
 
-**Key Strengths Developed:**
-Communication | Student Engagement | Relationship Management | Problem-Solving | Coordination
+**Key Competencies:**
+
+`Communication` `Student Engagement` `Coordination` `Problem Solving` `Relationship Management`
 
 ---
 
-## 🎓 Education
+## ◈ EDUCATION
 
-### Sanskriti University
+### 🎓 Sanskriti University
 
 **Bachelor of Technology (B.Tech)**
 
@@ -89,50 +124,74 @@ Communication | Student Engagement | Relationship Management | Problem-Solving |
 
 ---
 
-## 📜 Certifications
+## ◈ CERTIFICATIONS
 
-- **Python: Zero to Hero (Engineer Level)** — Udemy
+🏆 **Python: Zero to Hero (Engineer Level)**
 
----
-
-## 🌱 Areas of Interest
-
-- Data Analytics and Business Intelligence
-- Artificial Intelligence and Machine Learning
-- Product Strategy and Management
-- Business Development and Sales
-- Digital Marketing
-- Academic Research
-- Student Development and Engagement
+Platform: Udemy
 
 ---
 
-## 📊 My Professional Strengths
+## ◈ CAREER INTERESTS
 
-- Strong communication and interpersonal abilities.
-- Experience in counselling and handling student queries.
-- Ability to coordinate with different stakeholders.
-- Interest in analytical thinking and data-driven decisions.
-- Willingness to learn new technologies and business concepts.
-- Adaptability and a problem-solving mindset.
+<div align="center">
 
----
+| DOMAIN | TARGET OPPORTUNITIES |
+|:---|:---|
+| 📊 Data | Data Analyst, Business Analyst |
+| 🤖 AI | AI/ML Intern |
+| 💡 Product | Product Management Intern |
+| 📈 Business | Business Development Associate |
+| 💼 Sales | Sales & Relationship Management |
+| 📢 Marketing | Digital Marketing |
+| 🎓 Education | Academic Counsellor |
 
-## 📫 Let's Connect
-
-I'm always interested in connecting with recruiters, professionals, mentors, and organizations working in technology, analytics, AI, and business.
-
-| Contact | Details |
-|---|---|
-| Name | Yash Dixit |
-| Email | yashdixit388@gmail.com |
-| Phone | +91 8887813908 |
-| University | Sanskriti University |
+</div>
 
 ---
 
-<p align="center">
-  <b>“Learning continuously. Thinking analytically. Growing professionally.”</b>
-  <br><br>
-  Made with ❤️ by Yash Dixit
-</p>
+## ◈ MY PROFESSIONAL PHILOSOPHY
+
+<div align="center">
+
+### "Think Beyond Data. Build Beyond Technology."
+
+*Learning continuously. Thinking analytically. Growing professionally.*
+
+</div>
+
+---
+
+## ◈ CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:yashdixit388@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/" >
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GITHUB-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+📧 **yashdixit388@gmail.com**
+
+📱 **+91 8887813908**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:173B72,100:080D18&height=120&section=footer"/>
+
+**© Yash Dixit | Built for the Future**
+
+</div>
