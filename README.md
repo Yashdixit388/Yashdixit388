@@ -118,7 +118,7 @@ I believe in combining analytical thinking with communication and business under
 - Branch: Computer Science Engineering
 - Specialization: Artificial Intelligence & Machine Learning
 - Duration: 2023 – 2027 (Expected)
-- Current Status: Third Year
+- Current Status: Final Year
 
 ---
 
